@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<skills>
+    <tools tool_1 = "VScode" tool_2 = "Postman" tool_3 = "Charles" tool_4 = "Fiddler" tool_5 = "DevTools" tool_6 = "Jmeter" tool_7 = "Android Studio" tool_8 = "terminal bush">
+    </tools>
+    <other other_1 = "SQL" other_2 = "Redis" other_3 = "Python">
+    </other>
+</skills>
