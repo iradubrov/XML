@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<AboutMe>
+    <I_am>
+        <Lastname>Dubrovskaya</Lastname>
+        <Firstname>Irina</Firstname>
+        <Surname>Leonidovna</Surname>
+    </I_am>
+    <Age>34</Age>
+    <Pets>No</Pets>
+    <ExpectedSalary>
+        <TrialPeriod>350$</TrialPeriod>
+        <After3Month>500$</After3Month>
+       <AfterFirstYear>1000$</AfterFirstYear>
+    </ExpectedSalary>
+</AboutMe>
