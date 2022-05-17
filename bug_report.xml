@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<Test TestID='1' TestType='Calc'>
+	<Summary>The application crashes if you enter the number 1 into an expression with more than 6 characters using the GUI</Summary>
+	<Description>
+		<DescriptionText>If  clicking on '1' button 7 times or more, a system error appears and the application crashes</DescriptionText>
+		<Environment>Win10</Environment>
+		<Workaround>Сan be pasted '1111111' from clipboard</Workaround>
+		<RequirementID>11</RequirementID>
+		<ActualResult>The application crashes</ActualResult>
+		<ExpectedResult>The '1111111' is displayed in i/o field</ExpectedResult>
+	</Description>
+	<StepsToReproduce>
+		<Step_1>Download Calc.application.exe</Step_1>
+		<Step_2>Open calc</Step_2>
+		<Step_3>Click on next buttons: [1] [1] [1] [1] [1] [1] [1]</Step_3>
+	</StepsToReproduce>
+  <Severity>Critical</Severity>
+  <Priority>High</Priority>
+  <Attachments>Photo</Attachments>
+  <Status>Open</Status>
+</Test>
